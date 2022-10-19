@@ -1,0 +1,5 @@
+#忽略 git.txt 文件
+git.txt
+
+#忽略 test 目录下的文件
+test/
